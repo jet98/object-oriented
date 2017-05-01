@@ -1,0 +1,11 @@
+//How To Play
+//Use A to move left, D to move Right to try and avoid the Enemies
+//Ship2 can use W to move up and S to move down
+
+//Set the hero
+//Ship, Ship2
+Hero: Ship2
+//Set the enemies
+//Asteroid, House, Bomb, Shoe
+Enemy1: Bomb
+Enemy2: Shoe
